@@ -1,5 +1,5 @@
 _repo: Pierre-and-Jean_3804
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Pierre et Jean. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1927
     gutenberg_agent_id: '1801'
     url: http://www.gutenberg.org/2009/agents/1801
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -20,6 +23,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: Translation of Pierre et Jean.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3804#Pierre-and-Jean
 gutenberg_issued: '2006-04-13'
 gutenberg_type: Text
 identifiers:
